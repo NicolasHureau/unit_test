@@ -1,3 +1,4 @@
+// class item
 export class Item {
     
     constructor(label){
